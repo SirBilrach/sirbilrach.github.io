@@ -1,0 +1,22 @@
+    h1 {
+      font-family: Lobster;
+      color: Orange;
+	    font-size: 64px;
+	    padding: 40px;
+ 	    text-align: center;
+	    position: center;
+    }
+	
+    body {
+      background-image: url("cool-background.jpg");
+    }
+	
+    .header {
+      background-image: url("pizza-pepperoni.jpg");
+      background-position: center;
+      border-radius: 50px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 50%;
+      margin: auto;
+   	} 
